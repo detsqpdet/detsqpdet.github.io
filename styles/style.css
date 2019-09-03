@@ -1,1 +1,27 @@
+/* Start Body */
+body {
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 10px;
+    padding: 10px;
+}
+/* End Body */
 
+/* Start Debug */
+.bg-gray {
+    background-color: gray;
+}
+.bg-gray {
+    background-color: gray;
+}
+/* End Debug */
+
+/* Start container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width: 90%;
+}
+/* End Container */
